@@ -1,7 +1,7 @@
 # Our articles
 See here articles our team have made. 😁
 
-⚙️ `format`: title link --- [author - date - idiom]
+⚙️ `Description format`: title link --- [author - date - idiom]
 
 ## FrontEnd 🎨
   1. SPA
